@@ -1,21 +1,37 @@
 # Juxt Consult
-The aim of this document is to drive and facilitate the ressurection of JUXT Consult Reserch and Consulting Pvt Ltd
+The aim of this document is to drive and facilitate the ressurection of "JuxtConsult Reserch and Consulting Pvt Ltd"
 
 ## Claim
 Data driven decision making. 
 
 ## Projects 
 Here is a non-exaustive list of projects:
-* [Janwar Castle Community Organization] (https://janwaar-castle.in)
-* India online study
-* [Happyness India](https://happynessindia.org/)
+* Learning over education, a new model school
+= [Janwar Castle Community Organization] (https://janwaar-castle.in)
+
+* Real time status of Air, water and soil 
+= [www.bit.do/OEDP]
+
+* Digitisation, impact on learning, livelihood and health awareness.
+= [www.IndiaOnline.Study]
+
+* Diversity and women empowerement
+= [Happyness India](https://happynessindia.org/)
+
+* Helthy people
+= Comunity Health Mission
 
 ## Services
 
-We provide 3 services
-* Analysis of __In-house Data__
-* Collection and Analysis of __New Data__
-* Colletion of __Open Data__
+We provide following services:
+* Extraction, transformation, loading and analysis of __In-house Data__
+* Innovative methods of collecting and analysing __New Data__
+* Creation, colletion, interpretation and dessimination of __Open Data__
+
+Specialisation in:
+* Data for change
+* Content strategy to engage with customers, citizen, and humans
+* Mentoring change agents and start ups solving real problems
 
  >In order to extract knowledge and drive action.
 
